@@ -1,8 +1,6 @@
 ## Element (Matrix)
 A list of free public matrix homeservers.
 
-https://www.anchel.nl/matrix-publiclist/
-
 ## Description
 
 > - By default, matrix.org is used as a login to the clients, but an alternative server is better because you are de-central.
