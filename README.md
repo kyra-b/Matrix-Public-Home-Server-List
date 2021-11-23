@@ -547,9 +547,3 @@ Choose your Homeserver Provider wisely, as they will be the party that has acces
   - website - https://austinhuang.me/matrix-homeservers.html
   
   - Backup website - https://web.archive.org/web/20211113213957/https://austinhuang.me/matrix-homeservers.html
-  
-  
-  ## Recommended Home Server
-  
-  > I use kde.org home server due to better security. You can use this aswell if your too lazy to read and research of which one you want for your own needs.
-  
